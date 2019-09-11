@@ -38,11 +38,6 @@ To update the snapshots, run:
 npm run test -- -u
 ```
 
-To generate test coverage reports, run:
-
-```bash
-npm run test:coverage
-```
 
 
 
